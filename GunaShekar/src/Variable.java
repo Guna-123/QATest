@@ -8,5 +8,7 @@ public class Variable {
 	
 	int b=12345;
 	
+	String c="connect";
+	
 
 }
